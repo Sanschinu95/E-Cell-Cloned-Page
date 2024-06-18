@@ -6,14 +6,7 @@
   
   }
   
-  
-  .poppins-regular {
-    font-family: "Poppins", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  
+
   
   
   .header {
@@ -404,6 +397,14 @@
     color: #489fb5;
   
   }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
   
   #hund {
     color: #f9a03f;
